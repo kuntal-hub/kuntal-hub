@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kuntal Maity
 - 👀 I’m interested in Web And App Development 
-- 🌱 I’m currently learning Next js
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Startups and open Source Projects
 - 📫 Email : km7999319@gmail.com 
 
