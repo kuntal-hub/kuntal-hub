@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://kuntalmaity.tech](https://kuntalmaity.tech)
+- 👨‍💻 All of my projects are available at [https://kuntalmaity.in](https://kuntalmaity.in)
 
-- 📝 I regularly write articles on [https://kuntalmaity.hashnode.dev](https://kuntalmaity.hashnode.dev)
+- 📝 I regularly write articles on [https://blog.kuntalmaity.in/](https://blog.kuntalmaity.in/)
 
 - 💬 Ask me about **React, Redux, NextJs, NodeJs etc.**
 
